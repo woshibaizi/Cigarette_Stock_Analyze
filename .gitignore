@@ -1,0 +1,7 @@
+.DS_Store
+
+# Local prompt workspace, not part of the published skills repo
+Stock_Analyze_Prompts/
+
+# Local sample runs, not part of the published skills repo
+skill_runs_gree_000651_2026-03-14/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Turtle Investment Analyze"
+  short_description: "Strict v0.15 Turtle Framework report skill"
+  default_prompt: "Use $turtle-investment-analyze to generate a Turtle Framework investment-analysis report that strictly follows the v0.15 staged workflow and report template."

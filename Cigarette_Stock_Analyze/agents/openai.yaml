@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cigarette Stock Analyze"
+  short_description: "Strict v1.8 cigarette-butt stock report skill"
+  default_prompt: "Use $cigarette-stock-analyze to produce a static-value cigarette-butt stock report that strictly follows the v1.8 framework and report template."
+
+policy:
+  allow_implicit_invocation: true
